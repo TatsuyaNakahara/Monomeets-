@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>タイトル</title>
+    </head>
+ <META http-equiv="refresh" content="5; url=http://*****.chu.jp/html/2.html">
+ <META http-equiv="Page-Exit"content="revealTrans(Duration=1,Transition=23)">
+ <TITLE>スライドショーサンプルページ1</title>
+ <BODY background="http://*****.chu.jp/nontan/back.png" >
+ <BR><BR><HR><BR><BR>
+ <CENTER>
+ <IMG src="http://*****.chu.jp/html/1.jpg" >
+ <BR>*****のくるま
+</center>
+ <BR><BR><HR><BR><BR>
+ </body>
+ </html>
